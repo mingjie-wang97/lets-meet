@@ -1,0 +1,41 @@
+user
+- username (id)
+- password
+- email
+- phone number
+- wechat number
+- home location
+
+user preference
+- username
+- tag
+
+order
+- order ID
+- status (complete / in progress / waiting for payment / etc) 
+- username
+- merchantID
+- order created time
+- order execution time
+- order price
+
+merchant
+- merchant name (id)
+- merchant phone number
+- merchant email
+- merchant wechat
+- merchant tag
+- merchant location
+- merchant price rang
+- merchant menu
+- recommendation rate
+- merchant overall rating
+
+review
+- review id
+- customer usernmae
+- merchant name
+- review date
+- order ID
+- review star
+- review text
